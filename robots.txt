@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taluseral.github.io/sitemap
+Sitemap: https://taluseral.github.io/app/sitemap
+Sitemap: https://taluseral.github.io/assets/sitemap
+Sitemap: https://taluseral.github.io/css/sitemap
+Sitemap: https://taluseral.github.io/includes/sitemap
+Sitemap: https://taluseral.github.io/item/sitemap
+Sitemap: https://taluseral.github.io/src/sitemap
